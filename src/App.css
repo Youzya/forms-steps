@@ -1,0 +1,49 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  margin: 50px 0 0 50px;
+}
+
+label {
+  display: inline-block;
+  width: 150px;
+  margin-left: 3px;
+}
+
+input, button {
+  height: 25px;
+}
+
+input {
+  width: 140px;
+  margin-right: 10px;
+  margin-left: 3px;
+  border-radius: 5px;
+}
+button {
+  border-radius: 5px;
+}
+
+button, .third-col {
+  width: 90px;
+}
+
+table {
+  margin-top: 20px;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
+td {
+  width: 150px;
+}
+
+tbody {
+  font-size: 0.7em;
+}
+ 
+
